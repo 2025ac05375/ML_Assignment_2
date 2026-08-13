@@ -1,0 +1,18 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Local assignment reference PDFs; not needed for deployed app
+ML_Assignment_2-old.pdf
+ML_Assignment_2-new.pdf
+
+# Streamlit secrets
+.streamlit/secrets.toml
