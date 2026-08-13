@@ -11,7 +11,7 @@ Build, compare, and deploy multiple machine learning classification models on on
 The checked-in dataset file is `dataset_full.csv`. It contains 8,124 records, 22 feature columns, and one target column named `poisonous`, satisfying the assignment requirement of at least 12 features and 500 instances. The test upload file used for app verification is `test_data.csv`.
 
 ## GitHub Repository Link
-Add the final GitHub repository URL here after pushing the project.
+https://github.com/2025ac05375/ML_Assignment_2
 
 ## Models used
 - Logistic Regression
